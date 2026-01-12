@@ -1,13 +1,3 @@
----
-AIGC:
-    ContentProducer: Minimax Agent AI
-    ContentPropagator: Minimax Agent AI
-    Label: AIGC
-    ProduceID: d25d27870a49961e0dacb517aedd090c
-    PropagateID: d25d27870a49961e0dacb517aedd090c
-    ReservedCode1: 3045022100fd1d7523d26e81d0cc6f6ad98de7ac15c009bfe4bec6ff1a257b6fe7b011b7e102201d650a8adaab3e02e9f78ef10ac0cc00f18f957aee1fddf3c363cd284edd0222
-    ReservedCode2: 3044022025fd32444d21019e2caec868e5524e111dd89784491a4053613a7e52a44091f4022057a101f80bbfe5a9aeb10f1979df9a8f211fdf2d73cf046b1c73bd30c4fbedad
----
 
 # 💗 心动的星河 (Heart-Throbbing Galaxy)
 
@@ -212,9 +202,5 @@ Heart-Throbbing-Galaxy/
 ### 💗 Made with Love 💗
 
 *If you like this project, please give it a ⭐ on GitHub!*
-
-![Stars](https://img.shields.io/github/stars/yourusername/Heart-Throbbing-Galaxy?style=social&logo=star)
-![Forks](https://img.shields.io/github/forks/yourusername/Heart-Throbbing-Galaxy?style=social&logo=fork)
-![Issues](https://img.shields.io/github/issues/yourusername/Heart-Throbbing-Galaxy?style=social&logo=issue)
 
 </div>
